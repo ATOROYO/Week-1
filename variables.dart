@@ -23,4 +23,14 @@ void main() {
 
   print("💻 Total productivity: $totalProductivity tasks completed");
   print("🏆 Coding time: $codeTime hours fueled by coffee");
+
+  // /STRINGS
+  // Crafting String code
+  String coderName = "Sikita Monica";
+  String favoriteLanguage = "Dart";
+  String favoriteEmoji = "💻";
+
+  // Combine strings using interpolation (the power of `${}`!)
+  print(
+      "👨🏽‍💻 Hello, my name is $coderName, and I code in $favoriteLanguage $favoriteEmoji");
 }
