@@ -51,4 +51,17 @@ void main() {
   } else {
     print("🚀 Focus on writing bug-free code!");
   }
+
+  // / LIST / //
+  // Use square brackets for listing
+  List myList = [1, 2, 4, "Atoo"];
+
+  // Add value to the list
+  myList.add(67);
+
+  // Remove value
+  myList.remove("Atoo");
+  myList.remove(4);
+
+  print(myList);
 }
