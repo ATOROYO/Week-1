@@ -29,5 +29,19 @@ void main() {
   }
 
   // Switch Case Statement
-  int day = 3;
+  int day = 1;
+
+  switch (day) {
+    case 1:
+      print("🌞 Monday: Let's code!");
+      break;
+    case 2:
+      print("🚀 Tuesday: keep coding!");
+      break;
+    case 3:
+      print("🐪 Wednesday: Halfway through!");
+      break;
+    default:
+      print("🎉 Time for the weekend!");
+  }
 }
