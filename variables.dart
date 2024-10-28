@@ -64,4 +64,13 @@ void main() {
   myList.remove(4);
 
   print(myList);
+
+  // / MAPS / //
+  // Creating a Map with String keys and intvalues
+  Map<String, int> ages = {
+    "Alice": 30,
+    "Bob": 25,
+    "Charlie": 35,
+  };
+  print("Ages of students: $ages");
 }
