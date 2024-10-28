@@ -12,4 +12,8 @@ void main() {
   print("Magic Level: $magicLevel");
   print("Spell Power: $spellPower");
   print("Has Staff: $hasMagicStaff");
+
+  // Update a variable
+  magicLevel = 110;
+  print("New Magic Level: $magicLevel");
 }
