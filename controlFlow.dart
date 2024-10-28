@@ -16,4 +16,18 @@ void main() {
   } else {
     print("👶🏽 Sarah is still too young to vote.");
   }
+
+  // If else if Statement
+  var age3 = 10;
+
+  if (age > 18) {
+    print("🗳️ Sarah is a voter in Uganda!");
+  } else if (age == 18) {
+    print("🎉 Sarah is just old enough to vote in Kenya!");
+  } else {
+    print("👶🏽 Sarah is still too young to vote.");
+  }
+
+  // Switch Case Statement
+  int day = 3;
 }
