@@ -33,4 +33,22 @@ void main() {
   // Combine strings using interpolation (the power of `${}`!)
   print(
       "👨🏽‍💻 Hello, my name is $coderName, and I code in $favoriteLanguage $favoriteEmoji");
+
+  // / BOOLEAN
+  // Boolean code: True or false logic
+  bool isCodingFun = true;
+  bool loveDebugging = false;
+
+  // 👨🏽‍💻Making decisions with booleans
+  if (isCodingFun) {
+    print("🎉 Coding is fun, keep going");
+  } else {
+    print("💡 Try a new language or project for more fun!");
+  }
+
+  if (loveDebugging) {
+    print("🐛 Debugging is like solving puzzle!");
+  } else {
+    print("🚀 Focus on writing bug-free code!");
+  }
 }
