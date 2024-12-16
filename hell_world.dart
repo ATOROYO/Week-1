@@ -9,7 +9,7 @@ void main() {
   bool hasMagicStaff = true; // A magic staff? True or false
 
   // print("Name: $wizardName");
-  print("Magic Level: $magicLevel");
+  // print("Magic Level: $magicLevel");
   print("Spell Power: $spellPower");
   print("Has Staff: $hasMagicStaff");
 
