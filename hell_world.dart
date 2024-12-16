@@ -10,7 +10,7 @@ void main() {
 
   print("Name: $wizardName");
   print("Magic Level: $magicLevel");
-  // print("Spell Power: $spellPower");
+  print("Spell Power: $spellPower");
   // print("Has Staff: $hasMagicStaff");
 
   // Update a variable
