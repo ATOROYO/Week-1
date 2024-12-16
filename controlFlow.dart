@@ -20,9 +20,9 @@ void main() {
   // If else if Statement
   var age3 = 10;
 
-  if (age > 18) {
+  if (age3 > 18) {
     print("🗳️ Sarah is a voter in Uganda!");
-  } else if (age == 18) {
+  } else if (age3 == 18) {
     print("🎉 Sarah is just old enough to vote in Kenya!");
   } else {
     print("👶🏽 Sarah is still too young to vote.");
