@@ -6,7 +6,7 @@ void main() {
   if (age > 18) {
     print("🗳️ Sarah is a voter in Uganda!");
   }
-  // print("👶🏽 Sargitah is still too young to vote.");
+  // print("👶🏽 Sargitah is still too young to vote."); m
 
   // If-else Statements
   var age2 = 10;
