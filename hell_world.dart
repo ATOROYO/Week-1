@@ -1,7 +1,7 @@
 // Writting my first dart file
 void main() {
   print("Hello World");
-  print("David Atoroyo Sika");
+  // print("David Atoroyo Sika");
   print("I am an engineer");
 
   String wizardName = "Gandalf"; // AString spell
